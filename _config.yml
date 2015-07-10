@@ -3,7 +3,7 @@ description:      "Dev. Lead. Coach."
 logo:             omikron.png
 disqus_shortname: "Robbertvdbogerd"
 # Assign a default image for your site's header and footer
-default_bg:       default_bg1.jpg
+default_bg:       skyline-rotterdam.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -199,4 +199,4 @@ prose:
           value: false
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "LICENSE"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "LICENSE","CNAME","license.md","README.md"]
