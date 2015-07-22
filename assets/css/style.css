@@ -710,6 +710,12 @@ html {
   display: inline-block;
   padding: 0 12px;
 }
+@media (max-width: 480px) {
+  .social-icons li {
+    display: inline-block;
+    padding: 0;
+  }
+}
 .social-icons a {
   display: block;
   font-size: 24px;
@@ -3867,7 +3873,7 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:"F"
+    content:"R"
     }
 
 a#slide.slide:after{
@@ -3980,8 +3986,8 @@ a#slide.slide:after{
     }
 
 a#slide.slide{
-    left:308px;
-    pointer-events:none
+    left: 308px;
+    pointer-events:none;
     }
 
 body.slide{
@@ -4024,34 +4030,27 @@ body.slide{
         width:700px
         }
     
-    }
-
-@media screen and (max-width:700px){
-
-    #fade.slide{
-        left:298px
-        }
-
-    /*a#slide.slide{*/
-    /*    left:10px*/
-    /*    }*/
-
-    #header,
-    #posts-container,
-    .entry .text,
-    .entry .media,
-    .entry .captions,
-    .entry .details,
-    #permalink .permalink-box{
-        width:90%
-        }
+}
 
 
-@media screen and (max-width:500px){
-    
-    a#slide{
-        position:absolute    
-        }
+@media screen and (max-width:700px) {
 
+  #fade.slide {
+    left: 298px
+  }
+
+  /*a#slide.slide{*/
+  /*    left:10px*/
+  /*    }*/
+  #header,
+  #posts-container,
+  .entry .text,
+  .entry .media,
+  .entry .captions,
+  .entry .details,
+  #permalink .permalink-box {
+    width: 90%
+  }
+}
 
 /*      End-Responsive      */
