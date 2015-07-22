@@ -468,6 +468,8 @@ html {
 /* - Brand - */
 .brand img {
   max-height: 120px;
+  margin-top: -10px;
+  margin-bottom: 10px;
 }
 /* - Blog title and description - */
 .blog-title {
@@ -496,9 +498,8 @@ html {
   .blog-title {
     font-size: 24px;
     line-height: 24px;
-  }
-  .blog-description {
-    display: none;
+    margin-left: -12px;
+    margin-right: -12px;
   }
   .image-credit {
     display: none;

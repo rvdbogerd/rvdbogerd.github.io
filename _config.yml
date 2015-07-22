@@ -1,6 +1,6 @@
 title:            Robbert van den Bogerd
 description:      "Dev. Lead. Coach."
-logo:             omikron.png
+logo:             robbert-desert.png
 disqus_shortname: "Robbertvdbogerd"
 # Assign a default image for your site's header and footer
 default_bg:       skyline-rotterdam.jpg
@@ -23,7 +23,7 @@ url:
 # Owner/author information
 owner:
   name:           Robbert van den Bogerd
-  avatar:         robbert.jpg
+  avatar:         robbert-desert.png
   email:          rvdbogerd@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Passionate developer with experience in big web projects.
@@ -52,14 +52,16 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
-  - title: Categories
-    url: /categories
-  - title: Tags
-    url: /tags
+#  - title: Categories
+#    url: /categories
+#  - title: Tags
+#    url: /tags
   - title: Robbert who?
     url: /who-am-i?
+  - title: Services
+    url: /services
+  - title: Contact
+    url: /contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
