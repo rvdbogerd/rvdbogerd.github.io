@@ -4054,3 +4054,12 @@ body.slide{
 }
 
 /*      End-Responsive      */
+
+
+/* CUSTOM PAGES */
+
+/* Contact page */
+form.contact-form {
+  max-width: 600px;
+
+}
