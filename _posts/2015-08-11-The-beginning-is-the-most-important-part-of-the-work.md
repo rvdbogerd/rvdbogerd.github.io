@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The beginning is the most important part of the work.
+title: "The beginning is the most important part of the work."
 description: "Plato"
 headline: "The beginning of a new era"
 categories: personal
