@@ -45,7 +45,8 @@ ideas. The more complex the problem, the more exciting is the hunt for a solutio
 For those of you who want to know more about what I do, what services I offer and how to get in touch, have a look at my (Dutch) corporate
 website, [bliq.net](http://bliq.net/ "bliq - web application development"), which is of course, still under construction.
 
-So, to conclude this introduction, I'm setting up something new here. Any help of some kind is much appreciated, so please come to me with suggestions, tips,
+So, to conclude this introduction, I'm setting up something new here. Any help of some kind is much appreciated, so please come to me with
+suggestions, tips and brilliant ideas!
 
 As this Jekyll theme broke my RSS feed, you can't subscribe yet, so please visit this blog again or
 [find me on twitter](https://twitter.com/nickedname) to get the latest updates about my experiences and adventures in "The land of the
