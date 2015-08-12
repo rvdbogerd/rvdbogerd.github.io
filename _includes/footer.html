@@ -49,10 +49,10 @@
                 </a>
             </li>{% endif %}
         </ul>
-            <div>
-                <a href="{{ site.url }}/about/">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.
-            </div>
-            <ul class="menu-items">
+        <div>
+            <a href="{{ site.url }}/about/">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.
+        </div>
+        <ul class="menu-items">
             {% for link in site.links %}
             <li>
                 {% if link.external %}
